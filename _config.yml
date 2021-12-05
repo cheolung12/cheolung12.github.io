@@ -288,3 +288,8 @@ defaults:
       comments: # true
       share: true
       related: true
+     
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "Ung2"

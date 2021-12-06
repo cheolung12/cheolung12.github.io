@@ -290,6 +290,6 @@ defaults:
       related: true
      
 comment:
-  provider: "disqus"
+  provider:       "disqus"
   disqus:
-    shortname: "Ung2"
+    shortname:    "ung2"

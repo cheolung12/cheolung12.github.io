@@ -1,12 +1,12 @@
 # 프로젝트 빌드 과정
 
-Minimal mistakes 테마를 설치 <br>
+1.Minimal mistakes 테마를 설치 <br>
 - Click [here](https://github.com/topics/jekyll-theme) <br><br>
 
-내 로컬 저장소에 clone
+2.내 로컬 저장소에 clone
 <br><br>
 
-기본테마 수정(_config.yml) <br><br>
+3.기본테마 수정(_config.yml) <br><br>
 
 ⦿ 수정내역
 |카테고리|수정내역|
@@ -28,15 +28,15 @@ date_format: "%Y-%m-%d"
 <br><br>
 
 
-_posts 폴더 생성 후 게시글 post ! (2021-12-06-blog_game.md, 2021-12-07-ga.md)
+4._posts 폴더 생성 후 게시글 post ! (2021-12-06-blog_game.md, 2021-12-07-ga.md)
 <br><Br>
 
-Disqus 에서 Website Name을 ung2로 지정 후 댓글 기능 추가<br>
+5.Disqus 에서 Website Name을 ung2로 지정 후 댓글 기능 추가<br>
 ![댓글](./img/댓글.png){: width="700" height="400"}
 
 <br><br>
-Google analytics 추가 (포스트 참고)
+6.Google analytics 추가 (포스트 참고)
 <br><br>
 
-favicon 추가 <br>
+7.favicon 추가 <br>
 ![파비콘](./img/chunsik.png){: width="300" height="300"}

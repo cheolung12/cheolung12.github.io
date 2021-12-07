@@ -32,11 +32,11 @@ date_format: "%Y-%m-%d"
 <br><Br>
 
 5.Disqus 에서 Website Name을 ung2로 지정 후 댓글 기능 추가<br>
-![댓글](./img/댓글.png){: width="700" height="400"}
+![댓글](./img/댓글.png)
 
 <br><br>
 6.Google analytics 추가 (포스트 참고)
 <br><br>
 
 7.favicon 추가 <br>
-![파비콘](./img/chunsik.png){: width="300" height="300"}
+![파비콘](./img/chunsik.png)

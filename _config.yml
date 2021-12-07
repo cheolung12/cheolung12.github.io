@@ -96,7 +96,7 @@ social:
 analytics:
   provider               : "google-gtag" 
   google:
-    tracking_id          : "UA-85418495-1"
+    tracking_id          : "G-QHXVSC832X"
     anonymize_ip         :  false
 
 
